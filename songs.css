@@ -14,7 +14,25 @@
 
 body {
   background-image:url(http://wallpaperdj.com/wallpapers/experience_music-1920x1080.jpg);
-background-size: cover;
+  background-size: cover;
   background-repeat: no-repeat;
-    background-attachment: fixed;
+  background-attachment: fixed;
 }
+.content {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+.jumbotron {
+    background-color:rgba(204, 259, 255, 0.8)
+}
+img {
+    width:125px;
+
+}
+    
