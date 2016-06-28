@@ -13,10 +13,12 @@
 }
 
 body {
-  background-image:url(http://wallpaperdj.com/wallpapers/experience_music-1920x1080.jpg);
+  background-image:url(http://www.zastavki.com/pictures/1680x1050/2010/Archive_Miscellaneous_DJ_mixer_025062_.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  margin-top: 105px;
+  
 }
 .content {
     text-align: left;
@@ -29,10 +31,26 @@ ul {
     list-style-type: none;
 }
 .jumbotron {
-    background-color:rgba(204, 259, 255, 0.8)
+    background-color:rgba(204, 259, 255, 0.2);
+    color:white;
+    font-weight: bold;
 }
 img {
     width:125px;
 
 }
+.form-inline {
+    background-color: #222222;
+  opacity: .8;
+  height:100px
+}
+.form-group {
+        height: 50px;
+        margin-top:30px;
+       
+        
+      
+        
+}
+
     
